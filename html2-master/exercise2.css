@@ -1,0 +1,9 @@
+
+ #about_blue {border-color:black; border-style: solid;border-width: 5px;
+  background-color:#6495ED;
+}
+#about_yellow{border-color:black; border-style: solid; border-width: 5px;
+      background-color: yellow;
+    }
+ul.nav {display:inline-block;
+background-color: orange}
